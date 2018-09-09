@@ -1,0 +1,18 @@
+{
+  "name": "csv-to-json-converter",
+  "version": "1.0.0",
+  "description": "Reads a CSV file and saves converted JSON to a JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "json"
+  ],
+  "author": "rkudva",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8"
+  }
+}
